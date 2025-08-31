@@ -1,0 +1,2 @@
+# Project_SkeletonFramework_Playwright_Python
+Playwright Python POM Framework
